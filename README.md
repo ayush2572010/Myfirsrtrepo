@@ -29,16 +29,12 @@ I am a deeply passionate programmer specializing in Large Language Models (LLMs)
 ---
 
 ### 📊 GitHub Activity
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical" alt="Ayush's GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=radical" alt="Top Langs" />
-</p>
 
 *“The best way to predict the future is to invent it.”*
 
 
 
-#adoneo
+###adoneo
 A "Tech Stack" section (e.g., React, Node.js, Firebase, Python).
 
 A "How to Run" section (The commands needed to start the project).
